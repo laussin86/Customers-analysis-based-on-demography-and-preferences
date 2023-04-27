@@ -13,3 +13,5 @@ II) **TASK 2** - _Data Insights_
 **TASK 3** - _Data Insights and Presentation_
 
   Insight visualization 
+  
+  ![Dashboard](https://github.com/laussin86/KPMG-Virtual-Internship-data-analysis-project/blob/main/canvas.png?raw=true)
